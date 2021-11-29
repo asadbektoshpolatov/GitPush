@@ -4,3 +4,7 @@
     box-sizing: border-box;
      font-family: sans-serif;
 }
+h2{
+    color: red;
+    font-size: 70px;
+}
